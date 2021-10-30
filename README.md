@@ -1,4 +1,4 @@
-### Hi, i'm vasc 👋
+### Hi, I'm vasc 👋
 
 - 🔭 I’m currently working on [PresenceDB](https://presencedb.com)
 - 🌱 I'm mainly developing in TS/JS
